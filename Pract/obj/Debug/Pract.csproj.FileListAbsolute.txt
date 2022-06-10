@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Практика\Pract\obj\Debug\Pract.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Практика\Pract\obj\Debug\Pract.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Практика\Pract\obj\Debug\Pract.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Практика\Pract\obj\Debug\Pract.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Практика\Pract\bin\Debug\Pract.exe.config
+C:\Users\Lenovo\Desktop\Практика\Pract\bin\Debug\Pract.exe
+C:\Users\Lenovo\Desktop\Практика\Pract\bin\Debug\Pract.pdb
+C:\Users\Lenovo\Desktop\Практика\Pract\obj\Debug\Pract.exe
+C:\Users\Lenovo\Desktop\Практика\Pract\obj\Debug\Pract.pdb
+C:\Users\Lenovo\Desktop\Практика\Pract\obj\Debug\Pract.Form1.resources
+C:\Users\Lenovo\Desktop\Практика\Pract\obj\Debug\Pract.Form2.resources

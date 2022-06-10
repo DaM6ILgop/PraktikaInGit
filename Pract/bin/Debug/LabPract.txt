@@ -1,0 +1,12 @@
+rew;rew;werwer;were;Муж;wer,wer,wer,wer,wer
+werewr;rwer;wrewr;ewrewr;Муж;wer,wer,wer,werwer,wer
+wer;r;er;wer;Жен;wer,wer,wer,wer,wer
+wer;er;rw;r;Жен;dsfa,erwer,erw,werw,wer
+asdf;ffdsa;asdfsad;asdf;Муж;sdaf,dsfdsfdsf,sdaf,fasdfsdfdf,asdfds
+asdf;fasdf;df;sadf;Муж;asdf,asdf,asdf,sdf,asdf
+sadf;asdf;f;asdf;Муж;dfsfa,asdf,asdf,asdfasdf,asdf
+sadf;sdf;asdf;sdf;Муж;asdf,sdf,sdfa,asdfa,asdf
+asdfsdf;asdf;fdsa;sdf;Жен;,dsfasdf,asdf,asdf,adfasdf
+asdf;asdf;adsf;asdf;Жен;asdf,asdf,asdf,asdf,adsf
+daf;asdf;asdf;asdf;Жен;asdf,asdf,adsf,sdaf,adsf
+asdf;adf;df;ff;Жен;asdf,asdf,asdf,asdf,asdf
